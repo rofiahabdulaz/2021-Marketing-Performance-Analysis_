@@ -3,7 +3,7 @@ The 2021 Marketing Performance Dashboard project provides end-to-end analysis of
 
 # Data Preparation
 Imported datasets of about **17 columns** and **200,000 rows** from Excel as a CSV file.
-![ My Image Description](
+![ My Image Description](https://github.com/rofiahabdulaz/2021-Marketing-Performance-Analysis_/blob/main/Real%20Real%20Marketing%20Performance%20Dashboard.png?raw=true)
 
 # Data Cleaning in Power Query
 - Removed nulls and duplicates.
